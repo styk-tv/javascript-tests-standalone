@@ -10,4 +10,5 @@ A suite of JavaScript tests (hopefully) useful for interviews
 ## Solved
 
 1. `clone-object` ![alt text](https://raw.githubusercontent.com/styk-tv/javascript-tests/master/screenshots/clone.png?raw=true)
-1. `flatten-array` ![alt text](https://raw.githubusercontent.com/styk-tv/javascript-tests/master/screenshots/flatten.png?raw=true)
+2. `flatten-array` ![alt text](https://raw.githubusercontent.com/styk-tv/javascript-tests/master/screenshots/flatten.png?raw=true)
+3. `scoping` ![alt text](https://raw.githubusercontent.com/styk-tv/javascript-tests/master/screenshots/scoping.png?raw=true)
