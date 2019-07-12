@@ -9,4 +9,4 @@ A suite of JavaScript tests (hopefully) useful for interviews
 
 ## Solved
 
-1. `clone-object` ![alt text](https://raw.githubusercontent.com/styk-tv/javascript-tests/master/screenshots/clone-object.png)
+1. `clone-object` ![alt text](https://raw.githubusercontent.com/styk-tv/javascript-tests/master/screenshots/clone.png)
