@@ -1,3 +1,5 @@
+// Object assign - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
+
 describe('clone object', function () {
   it('should clone an object', function () {
     
